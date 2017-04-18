@@ -57,7 +57,7 @@ while total_time > elapsed:
         scrollphat.clear()
         sys.exit(-1)
 
-scrollphat.set_brightness(25)
+scrollphat.set_brightness(50)
 
 for t in range(0, 3, 1):
     for s in range(0, 5, 1):
